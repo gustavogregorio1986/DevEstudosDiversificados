@@ -9,9 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coords", "Coords\Coords.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleNamespace", "SampleNamespace\SampleNamespace.csproj", "{86351D16-DA77-4B5E-9907-C4C468A02D31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{F13D4610-7890-4400-8568-C5A485022D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica", "Logica\Logica.csproj", "{F13D4610-7890-4400-8568-C5A485022D6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica1", "Logica1\Logica1.csproj", "{11726FEC-D580-4AAD-8E09-B3B8C0F25248}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica1", "Logica1\Logica1.csproj", "{11726FEC-D580-4AAD-8E09-B3B8C0F25248}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logica01", "Logica01\Logica01.csproj", "{1E4AB07B-D92B-4D3B-90E3-9764D251C862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica2", "Logica2\Logica2.csproj", "{7FCB3C5C-88B8-46DB-8D5F-F895B35B7970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica02", "Logica02\Logica02.csproj", "{BBB337DF-AEC0-4286-BC43-D8CDEB1165DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{11726FEC-D580-4AAD-8E09-B3B8C0F25248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11726FEC-D580-4AAD-8E09-B3B8C0F25248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11726FEC-D580-4AAD-8E09-B3B8C0F25248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4AB07B-D92B-4D3B-90E3-9764D251C862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4AB07B-D92B-4D3B-90E3-9764D251C862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4AB07B-D92B-4D3B-90E3-9764D251C862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4AB07B-D92B-4D3B-90E3-9764D251C862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCB3C5C-88B8-46DB-8D5F-F895B35B7970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCB3C5C-88B8-46DB-8D5F-F895B35B7970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCB3C5C-88B8-46DB-8D5F-F895B35B7970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCB3C5C-88B8-46DB-8D5F-F895B35B7970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB337DF-AEC0-4286-BC43-D8CDEB1165DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB337DF-AEC0-4286-BC43-D8CDEB1165DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB337DF-AEC0-4286-BC43-D8CDEB1165DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB337DF-AEC0-4286-BC43-D8CDEB1165DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
